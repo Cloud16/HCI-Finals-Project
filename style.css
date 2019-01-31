@@ -1,0 +1,7 @@
+
+
+*{margin:0;padding:0;}body{background:#cd5b45 } 
+canvas{
+  position:absolute;
+  box-shadow:inset 0 0 50px #cd5b45 ;
+}
