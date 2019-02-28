@@ -1,4 +1,7 @@
-
+body {
+  background-image: url("tenor.gif");
+  background-repeat: no-repeat;
+}
 
 *{margin:0;padding:0;}body{background:#cd5b45 } 
 canvas{
